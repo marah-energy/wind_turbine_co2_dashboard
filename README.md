@@ -249,4 +249,4 @@ pip install pandas matplotlib streamlit
 
 ##🚀 Live Demo
 
-[Open the Dashboard] (http://localhost:8506/)
+[Open the Dashboard] (https://wind-turbine-co2-dashboard.streamlit.app/)
